@@ -1,5 +1,6 @@
 {
   "pinned_message_id": null,
+  "discount_message_id": null,
   "users": {},
   "admin_logs": {},
   "events": {
@@ -13,5 +14,6 @@
     "payment_paypal": 0,
     "payment_crypto": 0,
     "payment_voucher": 0
-  }
+  },
+  "discord_message_ids": {}
 }
