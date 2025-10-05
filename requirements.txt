@@ -1,3 +1,5 @@
-python-telegram-bot[ext]
+# Inhalt für requirements.txt
+python-telegram-bot
+discord.py
 python-dotenv
-fpdf2
+fpdf
