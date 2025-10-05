@@ -1,6 +1,7 @@
 {
   "pinned_message_id": null,
   "discount_message_id": null,
+  "discord_persistence_message_id": null,
   "users": {},
   "admin_logs": {},
   "events": {
